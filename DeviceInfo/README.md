@@ -2,8 +2,8 @@
 
 ## Tela Inicial
 
-![telaInicial](https://imgur.com/6IBddug)
+![telaInicial](https://i.imgur.com/6IBddug.jpg)
 
 ## Pós-Click
 
-![posClick](https://imgur.com/wEfz8ae)
+![posClick](https://i.imgur.com/wEfz8ae.jpg)
