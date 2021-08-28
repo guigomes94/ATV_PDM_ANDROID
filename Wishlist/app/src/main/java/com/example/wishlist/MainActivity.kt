@@ -8,15 +8,15 @@ import android.os.Bundle
 import android.view.View
 import android.widget.AdapterView
 import android.widget.ArrayAdapter
-import android.widget.ListView
 import android.widget.Toast
 import androidx.activity.result.contract.ActivityResultContracts
+import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
 class MainActivity : AppCompatActivity() {
-    private lateinit var lvDesejos: ListView
+    private lateinit var lvDesejos: RecyclerView
     private lateinit var fabAdd: FloatingActionButton
-    private lateinit var lista: ArrayList<Desejo>
+    private lateinit var lista: MutableList<Desejo>
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
